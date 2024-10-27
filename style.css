@@ -1,5 +1,5 @@
 body{
-    background-color: #f3f1f5;
+    background-color: black;
     margin: 0;
 }
 
@@ -44,7 +44,7 @@ section{
 
 .content p{
     font-size: 25px;
-    color: #a2d2ff;
+    color: white;
     margin: 20px 90px 10px 90px;
 }
 
